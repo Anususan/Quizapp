@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="enter_your_name">Enter Your Name</string>
+
+    <!--question 1-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1">Which of the following are the primary goals of network security? (Choose 3 best answers)</string>
+    <!--Answers to the question 1-->
+    <string name="redundancy">Redundancy</string>
+    <string name="availability">Availability</string>
+    <string name="integrity">Integrity</string>
+    <string name="confidentiality">Confidentiality</string>
+    <string name="remote_access">Remote access</string>
+
+    <!-- question2-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">What is part of a database that holds only one type of information?</string>
+    <!--Answers to the question 2-->
+    <string name="answer_2_1"> field </string>
+    <string name="answer_2_2"> file </string>
+    <string name="answer_2_3"> record </string>
+    <string name="answer_2_4"> report </string>
+
+    <!--Question 3-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">MPG extension refers usually to what kind of file?</string>
+
+    <!--Answers to the question 3-->
+
+    <string name="publ">Document file </string>
+    <string name="sensitive">MS Office document </string>
+    <string name="confidential">Image file </string>
+    <string name="_private">Private </string>
+    <string name="trusty_worthy"> Animation/movie file</string>
+
+    <!--Question 4-->
+    <string name="question_4">What are the 3important types of  security?</string>
+    <string name="num_question_4">Question 4</string>
+    <!--Answers to the question 4-->
+    <string name="managerial"> </string>
+    <string name="physical">Physical</string>
+    <string name="logical">Logical</string>
+    <string name="administrative">Administrative</string>
+    <string name="geographical">Geographical</string>
+
+
+        <!--Question 5-->
+    <string name="question_5">which are included in the seven wonders of the world? </string>
+    <string name="num_question_5">Question 5</string>
+    <!--Answers to the question 5-->
+    <string name="answer_5_1">Great wall of china</string>
+    <string name="answer_5_2">Taj MAhal</string>
+    <string name="answer_5_3">Colosseum</string>
+    <string name="answer_5_4">Stone henge</string>
+    <string name="answer_5_5">Qutb MInar</string>
+
+
+
+    <!--Question 6-->
+    <string name="num_question_6">Question 6</string>
+    <string name="question_6"> which is the recent cyclone that hit Chennai?</string>
+
+    <!--Answers to the question 6-->
+    <string name="passive_attack">Prema</string>
+    <string name="active_attack">Tsunami</string>
+    <string name="close_in_attack">Katrina</string>
+    <string name="insider_attack">Nada</string>
+    <string name="distribution_attack">Vardha</string>
+
+
+    <!--Question 7-->
+    <string name="num_question_7">Question 7</string>
+    <string name="Question_7"> which film won the recent Oscars? </string>
+
+    <!--Answers to the question 7-->
+    <string name="physical_security">Zootopia</string>
+    <string name="administrative_security">la la land</string>
+    <string name="logical_security">Moonlight</string>
+    <string name="vulnerability">The jungle book</string>
+
+
+
+
+    <!--Question 8-->
+    <string name="num_question_8">Question 8</string>
+    <string name="question_8">select the genres of music (Choose 3 best answers)</string>
+
+    <!--Answers to the question 8-->
+    <string name="packet_capture">Pop</string>
+    <string name="password_attack">Glassical </string>
+    <string name="dumpster_driving">Hindustani</string>
+    <string name="botnet"> Drums</string>
+    <string name="social_engineering"> Classical </string>
+    <string name="tcpsyn_flood">Flute</string>
+
+
+
+    <!--Question 9-->
+    <string name="num_question_9">Question 9</string>
+    <string name="question_9">Which of the following are the Integrity attacks? (Choose 3 best answers)</string>
+
+    <!--Answers to the question 9-->
+    <string name="data_diddling">Data diddling</string>
+    <!--Rest of the answers to question 9 to watch in the answer to question 8 above-->
+
+    <!--Question 10-->
+    <string name="num_question_10">Question 10</string>
+    <string name="question_10">Which of the following are the attacks on availability of a resource? (Choose 2 best answers)</string>
+
+    <!--Answers to the question 9-->
+    <string name="denial_of_service">Denial of Service</string>
+    <!--Rest of the answers to question 10 to watch in the answer to question 8 above-->
+
+    <!--Button "End Test"-->
+    <string name="end_test">End test</string>
+
+    <!--Test Result-->
+    <string name="test_result_name">"Name: "</string>
+    <string name="test_result">Test Result</string>
+    <string name="test_result_score">"Score: "</string>
+</resources>
